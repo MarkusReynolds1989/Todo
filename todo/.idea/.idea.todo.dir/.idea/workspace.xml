@@ -39,8 +39,8 @@
       <option value="$PROJECT_DIR$/src/controllers/todo_controller.rs" />
       <option value="$PROJECT_DIR$/src/controlmod/mod.rs" />
       <option value="$PROJECT_DIR$/src/controlmod/todo_model.rs" />
-      <option value="$PROJECT_DIR$/src/main.rs" />
       <option value="$PROJECT_DIR$/src/controlmod/todo_controller.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
     </changedPaths>
   </component>
   <component name="MacroExpansionManager">
@@ -95,6 +95,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,13 +106,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606140049788</updated>
       <workItem from="1606140064797" duration="11060000" />
+      <workItem from="1606165637531" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -123,6 +125,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
