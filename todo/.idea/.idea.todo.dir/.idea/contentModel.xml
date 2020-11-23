@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\autocfg-1.0.1" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\chrono-0.4.19" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.80" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\num-integer-0.1.44" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\num-traits-0.2.14" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\serde-1.0.117" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\time-0.1.44" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\wasi-0.10.0+wasi-snapshot-preview1" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-0.3.9" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-i686-pc-windows-gnu-0.4.0" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.cargo\registry\src\github.com-1ecc6299db9ec823\winapi-x86_64-pc-windows-gnu-0.4.0" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\alloc" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\backtrace" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\core" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\panic_abort" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\panic_unwind" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\proc_macro" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\profiler_builtins" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\std" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\stdarch\crates\core_arch" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\stdarch\crates\std_detect" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\term" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\test" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\src\rust\library\unwind" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\MR071411\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\MR071411\Home\Code\Todo\Todo" t="IncludeFlat" />
+  </component>
+</project>
